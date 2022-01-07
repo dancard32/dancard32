@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 # Hi, I'm Dan Card👋
 
 ### About me
-I am an aspiring software engineer. Formerly I am an aerospace engineer, but am eagerly looking to transition into the world of technology!
+I am an aspiring software engineer. I obtained my educational background in aerospace engineering, but am eagerly looking to transition into the world of technology and programming!
 
-My current interest in software is Python development, both front-end and back-end. Through my graduate studies focusing on in-space propulsion, I found my passion of programming. After much reflection, I've decided that I would like to pursue software.
+My current interest in software is Python development, both front-end and back-end. Through my graduate studies focusing of space propulsion, I found my passion of programming. After much reflection, I've decided that I would like to pursue this career.
 
 I can be reached via my email at dcard@umich.edu
 
@@ -16,7 +16,7 @@ I can be reached via my email at dcard@umich.edu
 * 📝 I'm learning about front-end development with React
 * 🧐 I am looking to help with an open-source project
 * ⚡️ Fun-Fact: I have hiked 9 mountains 🏔
-* 🙌🏽 Goal of 2022: Transition into software engineering
+* 🙌🏽 Goal of 2022: Transition into software engineering, learn more programming languages
 
 ---
 
