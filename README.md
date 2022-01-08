@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ### About me
 I am an aspiring software engineer. I obtained my educational background in aerospace engineering, but am eagerly looking to transition into the world of technology and programming!
 
-My current interest in software is Python development, both front-end and back-end. Through my graduate studies focusing of space propulsion, I found my passion of programming. After much reflection, I've decided that I would like to pursue this career.
+My current interest is all things programming! Through my graduate studies focusing of space propulsion, I found my passion of programming. After much reflection, I've decided that I would like to pursue this career.
 
 I can be reached via my email at dcard@umich.edu
 
@@ -17,7 +17,7 @@ I can be reached via my email at dcard@umich.edu
 * 💻 I'm currently working on a Google Maps tourist routing web app
 * 📝 I'm learning about front-end development with React
 * 🧐 I am looking to help with an open-source project
-* ⚡️ Fun-Fact: I have hiked 9 mountains 🏔
+* ⚡️ Fun-Fact: I have hiked 9 mountains 🏔 (but who's actually counting!)
 * 🙌🏽 Goal of 2022: Transition into software engineering, learn more programming languages
 
 ---
