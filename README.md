@@ -10,6 +10,7 @@ I am an aspiring software engineer. I obtained my educational background in aero
 My current interest in software is Python development, both front-end and back-end. Through my graduate studies focusing of space propulsion, I found my passion of programming. After much reflection, I've decided that I would like to pursue this career.
 
 I can be reached via my email at dcard@umich.edu
+[Check out my portfolio here!](https://dancard32.github.io/website/#/home)
 
 ### More about me
 * 💻 I'm currently working on a Google Maps tourist routing web app
