@@ -162,11 +162,11 @@ I can be reached via my email at dcard@umich.edu
 
 ![Dan Card's github activity graph](https://activity-graph.herokuapp.com/graph?username=dancard32&theme=nord) 
 
-## My Past as a Rocket Scientist (Still here?)
+## Still here? (My Past as a Rocket Scientist)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 Here's what I previously did when I was in the aerospace division
-* Worked on Electric Propulsion
+* Performed R&D on high power Hall Effect Thrusters (HETs), a.k.a. Ion engines
 
 
 <img width="50%" align="center" alt="Github Image" src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif" />
