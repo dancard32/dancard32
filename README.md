@@ -139,13 +139,11 @@ I can be reached via my email at dcard@umich.edu
 ## ✨GitHub Stats  : 
 [![Dan Cards's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancard32&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/dancard32">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=dancard32&theme=tokyonight&show_icons=true" />
-</a>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dancard32&theme=tokyonight&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancard32&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="Dan's GitHub Stats" />
+</div>
 
-<a href="https://github.com/dancard32">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancard32&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="Dan's GitHub Stats" />
-</a>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dancard32&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dancard32&theme=tokyonight" />
