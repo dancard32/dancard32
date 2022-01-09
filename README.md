@@ -31,5 +31,5 @@ I can be reached via my email at dcard@umich.edu
 
 
 <a href="https://github.com/dancard32">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancard32&langs_count=7&theme=tokyonight&show_icons=true" alt="Dan's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancard32&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="Dan's GitHub Stats" />
 </a>
