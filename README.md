@@ -1,11 +1,9 @@
-<!---
-dancard32/dancard32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- #################################################################################################################################### -->
 # Hi, I'm Dan Card <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
+<!-- #################################################################################################################################### -->
 ## About me
 Former rocket scientist, aspiring software engineer. I obtained my formal education in aerospace engineering, but am eagerly looking to transition into the world of technology and programming! Through my graduate studies focusing of space propulsion, I found my passion of programming. And after much reflection, I've decided that I would like to pursue this career.
 
@@ -15,7 +13,7 @@ I can be reached via my email at dcard@umich.edu
 
 [Check out my portfolio here!](https://dancard32.github.io/website/#/home)
 
-
+<!-- #################################################################################################################################### -->
 ## More about me
 <p align="left"> 
   <a href="https://twitter.com/DanCard32" target="blank">
@@ -40,6 +38,7 @@ I can be reached via my email at dcard@umich.edu
 * ⚡️ Fun-Fact: I have hiked 9 mountains 🏔 (but who's actually counting!)
 * 🙌🏽 Goal of 2022: Transition into software engineering, learn more programming languages
 
+<!-- #################################################################################################################################### -->
 ## 🌐 Languages and Tools :
 <p align="left">
 <!-- Most familiar in descending order -->
@@ -146,8 +145,8 @@ I can be reached via my email at dcard@umich.edu
     -->
 </p>
           
-
-## ✨GitHub Stats  : 
+<!-- #################################################################################################################################### -->
+## ✨GitHub Stats :
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dancard32&theme=tokyonight&show_icons=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancard32&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="Dan's GitHub Stats" />
@@ -160,13 +159,18 @@ I can be reached via my email at dcard@umich.edu
 
 <br/>  
 
-![Dan Card's github activity graph](https://activity-graph.herokuapp.com/graph?username=dancard32&theme=nord) 
+![Dan Card's github activity graph](https://activity-graph.herokuapp.com/graph?username=dancard32&theme=nord)
 
+<!-- #################################################################################################################################### -->
 ## Still here? (My Past as a Rocket Scientist)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here's what I previously did when I was in the aerospace division
+Here's what I previously did when I was in the aerospace field
+* Lead for maintaining tooling for multi-billion dollar Trident D5 II Navy contract
 * Performed R&D on high power Hall Effect Thrusters (HETs), a.k.a. Ion engines
+* Designed an carbon-graphite ion beam dump to lower vacuum chamber erosion
+* Aided research at The University of Michigan's PEPL laboratory
 
-
-<img width="50%" align="center" alt="Github Image" src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif" />
+<div align="center">
+<img width="100% alt="Github Image" src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif" />
+</div>
