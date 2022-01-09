@@ -19,13 +19,13 @@ I can be reached via my email at dcard@umich.edu
   <a href="https://twitter.com/DanCard32" target="blank">
     <img src="https://img.shields.io/twitter/follow/DanCard32?logo=twitter&style=for-the-badge" alt="DanCard32" />
   </a>&nbsp
-  <a href="https://www.linkedin.com/in/dan-card">
+  <a href="https://www.linkedin.com/in/dan-card" target="blank">
     <img src="https://img.shields.io/badge/-Dan%20Card-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>&nbsp
   <a href="http:/dancard32.github.io/website" target="_blank">
-    <img src="https://img.shields.io/website?label=dancard32.github.io&style=for-the-   badge&up_color=9FEF00&url=https%3A%2F%2Fdancard32.github.io" alt="dancard32.github.io" />
+    <img src="https://img.shields.io/badge/dancard32.github.io-Portfolio-lightgrey?style=for-the-badge&logo=github" alt="dancard32.github.io" />
   </a>&nbsp
-  <a href="mailto:dcard@umich.edu">
+  <a href="mailto:dcard@umich.edu" target="blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dcard@umich.edu" />
   </a>
 </p>
