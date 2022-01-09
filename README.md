@@ -32,11 +32,11 @@ I can be reached via my email at dcard@umich.edu
 
 <img width="50%" align="right" alt="Github Image" src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Human%20Activity.gif" />
 
-* 💻 I'm currently working on a Google Maps tourist routing web app
-* 📝 I'm learning about front-end development with React
-* 🧐 I am looking to help with an open-source project
-* ⚡️ Fun-Fact: I have hiked 9 mountains 🏔 (but who's actually counting!)
-* 🙌🏽 Goal of 2022: Transition into software engineering, learn more programming languages
+* 💻 I'm currently working on some personal projects
+* 📝 I'm learning about all things programming!
+* 🧐 Looking to help with an open-source project!
+* ⚡️ Fun-Fact: I have hiked 9 mountains 🏔
+* 🙌🏽 Goal of 2022: become a software engineer
 
 <!-- #################################################################################################################################### -->
 ## 🌐 Languages and Tools :
