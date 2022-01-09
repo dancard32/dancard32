@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 ## About me
-I am an aspiring software engineer. I obtained my educational background in aerospace engineering, but am eagerly looking to transition into the world of technology and programming!
+Former rocket scientist, aspiring software engineer. I obtained my formal education in aerospace engineering, but am eagerly looking to transition into the world of technology and programming! Through my graduate studies focusing of space propulsion, I found my passion of programming. And after much reflection, I've decided that I would like to pursue this career.
 
-My current interest is all things programming! Through my graduate studies focusing of space propulsion, I found my passion of programming. After much reflection, I've decided that I would like to pursue this career.
+There's so much to learn and I can't wait to get started!
 
 I can be reached via my email at dcard@umich.edu
 
@@ -31,7 +31,8 @@ I can be reached via my email at dcard@umich.edu
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dcard@umich.edu" />
   </a>
 </p>
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<img width="50%" align="right" alt="Github Image" src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Human%20Activity.gif" />
 
 * 💻 I'm currently working on a Google Maps tourist routing web app
 * 📝 I'm learning about front-end development with React
@@ -160,3 +161,12 @@ I can be reached via my email at dcard@umich.edu
 <br/>  
 
 ![Dan Card's github activity graph](https://activity-graph.herokuapp.com/graph?username=dancard32&theme=nord) 
+
+## My Past as a Rocket Scientist (Still here?)
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+Here's what I previously did when I was in the aerospace division
+* Worked on Electric Propulsion
+
+
+<img width="50%" align="center" alt="Github Image" src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif" />
