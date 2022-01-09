@@ -87,7 +87,7 @@ I can be reached via my email at dcard@umich.edu
 ## ✨GitHub Stats :
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dancard32&theme=tokyonight&show_icons=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancard32&layout=compact&langs_count=7&theme=tokyonight&show_icons=true" alt="Dan's GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dancard32&layout=compact&langs_count=8&theme=tokyonight&show_icons=true" alt="Dan's GitHub Stats" />
 </div>
 
 <div align="center">
