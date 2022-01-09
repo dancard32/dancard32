@@ -32,6 +32,7 @@ I can be reached via my email at dcard@umich.edu
   </a>
 </p>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 * 💻 I'm currently working on a Google Maps tourist routing web app
 * 📝 I'm learning about front-end development with React
 * 🧐 I am looking to help with an open-source project
