@@ -16,16 +16,16 @@ I can be reached via my email at dcard@umich.edu
 <!-- #################################################################################################################################### -->
 ## More about me
 <p align="left"> 
-  <a href="https://twitter.com/DanCard32" target="blank">
+  <a href="https://twitter.com/DanCard32" target="_blank">
     <img src="https://img.shields.io/twitter/follow/DanCard32?logo=twitter&style=for-the-badge" alt="DanCard32" />
   </a>&nbsp
-  <a href="https://www.linkedin.com/in/dan-card" target="blank">
-    <img src="https://img.shields.io/badge/-Dan%20Card-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/dan-card" target="_blank">
+    <img src="https://img.shields.io/badge/-Dan%20Card-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>&nbsp
   <a href="http:/dancard32.github.io/website" target="_blank">
     <img src="https://img.shields.io/badge/dancard32.github.io-Portfolio-lightgrey?style=for-the-badge&logo=github" alt="dancard32.github.io" />
   </a>&nbsp
-  <a href="mailto:dcard@umich.edu" target="blank">
+  <a href="mailto:dcard@umich.edu" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dcard@umich.edu" />
   </a>
 </p>
@@ -81,68 +81,6 @@ I can be reached via my email at dcard@umich.edu
     <a href="https://github.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
     </a> 
-  
-  
-  
-  
-  <!--
-    <a href="https://www.npmjs.com/package/express" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://redis.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://devdocs.io/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.java.com/en/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="c++" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.php.net/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://dart.dev/" target="_blank"> 
-        <code><img src="https://www.fluttericon.com/logo_dart_192px.svg" alt="dart" width="50" height="50"/></code> 
-    </a>
-    <a href="https://flutter.dev/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/></code> 
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
-    </a>   
-    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.heroku.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://bitbucket.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bitbucket/bitbucket-original-wordmark.svg" alt="BitBucket" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://gitlab.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="BitBucket" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://postman.com" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://docker.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></code> 
-    </a> 
-
-    <a href="https://www.android.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
-    </a>
-          
-    -->
 </p>
           
 <!-- #################################################################################################################################### -->
