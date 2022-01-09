@@ -5,7 +5,7 @@
 
 <!-- #################################################################################################################################### -->
 ## About me
-Former rocket scientist, aspiring software engineer. I obtained my formal education in aerospace engineering, but am eagerly looking to transition into the world of technology and programming! Through my graduate studies focusing of space propulsion, I found my passion of programming. And after much reflection, I've decided that I would like to pursue this career.
+Former rocket scientist, aspiring software engineer. I obtained my formal education in aerospace engineering, but am eagerly looking to transition into the world of technology and programming! Through my graduate studies, I found my passion of programming. And after much reflection, I've decided that I would like to pursue this career.
 
 There's so much to learn and I can't wait to get started!
 
