@@ -16,9 +16,6 @@ I can be reached via my email at dcard@umich.edu
 <!-- #################################################################################################################################### -->
 ## More about me
 <p align="left"> 
-  <a href="https://twitter.com/DanCard32" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/DanCard32?logo=twitter&style=for-the-badge" alt="DanCard32" />
-  </a>&nbsp
   <a href="https://www.linkedin.com/in/dan-card" target="_blank">
     <img src="https://img.shields.io/badge/-Dan%20Card-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>&nbsp
