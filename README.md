@@ -94,8 +94,7 @@ I can be reached via my email at dcard@umich.edu
 
 <br/>  
 
-![Dan Card's github activity graph](https://activity-graph.herokuapp.com/graph?username=dancard32&theme=nord)
-
+[![Dan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dancard32&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- #################################################################################################################################### -->
 ## Still here? (My Past as a Rocket Scientist)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
