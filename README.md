@@ -5,7 +5,7 @@
 
 <!-- #################################################################################################################################### -->
 ## About me
-Former rocket scientist, aspiring software engineer. I obtained my formal education in aerospace engineering, but am eagerly looking to transition into the world of technology and programming! Through my graduate studies, I found my passion of programming. And after much reflection, I've decided that I would like to pursue this career.
+Former rocket scientist, current software engineer. I obtained my formal education in aerospace engineering, but transitioned into the world of technology and programming! Through my graduate studies, I found my passion of programming. And after much reflection, I've decided that I wanted to further pursue this career.
 
 There's so much to learn and I can't wait to get started!
 
@@ -33,7 +33,7 @@ I can be reached via my email at dcard@umich.edu
 * 📝 I'm learning about all things programming!
 * 🧐 Looking to help with an open-source project!
 * ⚡️ Fun-Fact: I have hiked 9 mountains 🏔
-* 🙌🏽 Goal of 2022: become a software engineer
+* 🙌🏽 Goal of 2023: release an "official" version of my [homelab](https://github.com/dancard32/homelab)
 
 <!-- #################################################################################################################################### -->
 ## 🌐 Languages and Tools :
@@ -98,12 +98,13 @@ I can be reached via my email at dcard@umich.edu
 <!-- #################################################################################################################################### -->
 ## Still here? (My Past as a Rocket Scientist)
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+I always get asked about my past rolees as an aerospace engineer, since it's such a unique skillset. If you're curious, well here's what I previously did when I was in the aerospace field:
 
-Here's what I previously did when I was in the aerospace field
-* Lead for maintaining tooling for multi-billion dollar Trident D5 II Navy contract
-* Performed R&D on high power Hall Effect Thrusters (HETs), a.k.a. Ion engines
+* Lead maintenance and tooling for multi-billion dollar Trident D5 II Navy contract
+* Performed R&D on high power Hall Effect Thrusters (HETs), a.k.a. ion engines
 * Designed an carbon-graphite ion beam dump to lower vacuum chamber erosion
-* Aided research at The University of Michigan's PEPL laboratory
+* Aided research at The University of Michigan's Plasmadynamics and Electric Propulsion Laboratory (PEPL)
+* Created a small embedded system for digital aquisition (DAQ) for laboratory purposes
 
 <div align="center">
 <img width="100% alt="Github Image" src="https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/images/Signal.gif" />
